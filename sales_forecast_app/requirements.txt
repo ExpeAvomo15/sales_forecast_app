@@ -3,4 +3,4 @@ pandas
 matplotlib
 prophet
 openpyxl
-ploty
+plotly
